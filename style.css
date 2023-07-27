@@ -1,0 +1,29 @@
+.header{
+    margin: 0px;
+    background-image: url(images/header_bg.png),url(images/developer.png);
+    background-repeat: no-repeat;
+    background-position: bottom right,left;
+    
+}
+.navbar{
+    display: flex;
+    margin: 0px 120px;
+}
+.navbar ul{
+    margin-left: 70%;
+    
+}
+.navbar ul li{
+    list-style: none;
+    display: inline;
+    margin: 0px 20px;
+    font-size: large;
+    font-weight: 400;
+}
+.top-banner{
+    display: flex;
+    align-items: center;
+}
+.top-banner-article{
+    margin-left: 120px;
+}
