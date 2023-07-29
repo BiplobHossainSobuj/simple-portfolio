@@ -10,13 +10,13 @@
     margin: 0px 120px;
 }
 .navbar ul{
-    margin-left: 70%;
+    margin-left: 65%;
     
 }
 .navbar ul li{
     list-style: none;
     display: inline;
-    margin: 0px 20px;
+    margin: 0px 10px;
     font-size: large;
     font-weight: 400;
 }
@@ -26,4 +26,41 @@
 }
 .top-banner-article{
     margin-left: 120px;
+}
+.about{
+    background-color: antiquewhite;
+    margin: 120px 60px;
+    padding: 50px 60px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.about-description{
+    justify-content: center;
+    margin: 50px;
+    padding: 40px;
+}
+.about-details{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+.skills{
+    display: flex;
+    gap: 20px;
+}
+.skill{
+    background: #FFFFFF;
+    box-shadow: 0px 5px 50px rgba(29, 28, 28, 0.06);
+    padding: 30px;
+    border-radius: 10px;
+}
+.expertise-container{
+    margin: 50px 30px;
+    padding: 20px;
+
+}
+.expertise-container h1{
+    text-align: center;
+    margin: 50px 0px;
 }
